@@ -1,4 +1,4 @@
-# Website com Hambúrguer Menu
+# Website com Menu Hambúrguer
 
 ## 📌 Sobre este Projeto
 
